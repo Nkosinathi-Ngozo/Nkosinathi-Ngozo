@@ -1,13 +1,23 @@
-## Hi there 👋, I'm Nkosinathi Ngozo
+<h1 align="center">Hi 👋, I'm Nkosinathi Ngozo</h1>
+<h3 align="center">I'm a Full Stack Developer passionate about creating impactful solutions.</h3>
 
-### About Me:
-I'm a Full Stack Developer passionate about creating impactful solutions.  
+### 💫 **About Me:**
+
 <img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/>  
 
-- 🔭 Currently working on **PennyWise**, a finance and budgeting app.  
-- 🌱 Currently learning **React Native**  
-- 💬 Ask me about **Android and Web development**.  
-- 📫 Reach me at: **ngozonathi@gmail.com**  
+- 🔭 I’m currently working on [PennyWise, a finance and budgeting app.](https://github.com/Nkosinathi-Ngozo/PennyWise.git)
+
+- 🌱 I’m currently learning **React Native**
+
+- 👯 I’m looking to collaborate on **full-stack development projects**
+
+- 🤝 I’m looking for help with **full-stack development**
+
+- 💬 Ask me about **full-stack development**
+
+- 📫 How to reach me **ngozonathi@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://nkosinathi-ngozo.github.io/portfolio/](https://nkosinathi-ngozo.github.io/portfolio/)
 
 
 
